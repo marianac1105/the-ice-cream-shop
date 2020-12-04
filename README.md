@@ -1,0 +1,1 @@
+The Icecream Shop website based on wordpress premium template (The Rosa)
